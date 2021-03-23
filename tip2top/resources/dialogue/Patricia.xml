@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patricia>
+
+	<famous>
+		<print>You: Welcome. How may I help you today?</print>
+		<print>???: Hello? Yes? I’d like a luxury room, please. I’ll be staying for 5 days.</print>
+		<print>You: Of course.</print>
+		<print>You: Would you like any shampoo?</print>
+		<print>???: Sure! I’m here because I’m just trying to get an escape from all the fame.</print>
+		<print>You: Sorry, what’s your name?</print>
+		<print>Patricia: I’m THE Patricia Lively!!</print>
+		<print>Patricia: Do you not recognize me?</print>
+		<print>choice</print>
+	</famous>
+	
+	<famous_yes>
+		<print>You: Of course, I can’t imagine how taxing it is to keep up with.</print>
+		<print>Patricia: Finally someone who understands!</print>
+		<print>You: Yup, back in fifth grade the playground kids were all over me.</print>
+		<print>Patricia: I have to respect the hustle. You're a good kid.</print>
+		<print>You: Thanks, that's very kind of you.</print>
+		<print>...</print>
+		<print>You: Alright, your room is number 10. Here’s your key.</print>
+		<print>Patricia: Thanks, you’re wonderful!</print>
+	</famous_yes>
+	
+	<famous_no>
+		<print>You: Sorry, I don’t.</print>
+		<print>Patricia: Wow, that's rough.. And you consider yourself a good employee?</print>
+		<print>You: I'm really sorry but I didn't want to just lie...</print>
+		<print>Patricia: As if that's any excuse.</print>
+		<print>You: Uh... Okay then. Your room tonight will be number 10.</print>
+		<print>You: Here's your key- have a good stay, Ms. Lively.</print>
+	</famous_no>
+	
+	<bigNeck>
+		<print>You: Hey there, how was your stay?</print>
+		<print>Patricia: Hmm, it was alright I suppose.</print>
+		<print>Patricia: I do have some room service coming on the way though.</print>
+		<print>Patricia: Is it possible you could delay it?</print>
+		<print>You: Uh, sure.</print> 
+		<print>You: Is there a specific reason why you’re pushing it back?</print>
+		<print>Patricia: Not really, just not hungry anymore.</print>
+		<print>Patricia: By the way, you have a GIGANTIC neck.</print> 
+		<print>--You have a new email!--</print>
+		<print>Patricia: Let me know if you’re considering joining rugby.</print>
+		<print>Patricia: You’d be great for it.</print>
+		<print>Patricia: Anyways, seeya later.</print>
+	</bigNeck>
+	
+	<blankets>
+		<print>Patricia: Hey, I’m really enjoying my stay.</print>
+		<print>You: That’s great!</print> 
+		<print>You: Is there anything I can do for you?</print>
+		<print>Patricia: Yes, actually can I have a few extra blankets?</print>
+		<print>Patricia: Gotta keep the neck warm, yknow.</print>
+	</blankets>
+	
+		<b_yes>
+			<print>You: Of course!</print>
+			<print>You: Anything for my favorite superstar.</print>
+			<print>Patricia: Thanks buddy, I owe you one.</print>
+			<print>Patricia: Okay, see you later.</print>
+		</b_yes>
+		
+		<b_no>
+			<print>You: Sorry, no can do.</print>
+			<print>Patricia: What, why?</print>
+			<print>You: Just hotel policy.</print>
+			<print>Patricia: Ugh, if only you people knew about the kind of influence I have...</print>
+			<print>Patricia: Okay, bye.</print>
+		</b_no>
+
+</Patricia>
