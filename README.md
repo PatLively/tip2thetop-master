@@ -108,6 +108,6 @@ As of 2019-04-12 </br>
 
 - [Jason Jiang](https://github.com/jjiaang)
 - [Dylan Leclair](https://github.com/dylanleclair)
-- [Patrica Lively](https://github.com/lively15)
+- [Patrica Lively](https://github.com/PatLively)
 - [Yvonne Ng](https://github.com/ng-yvonne)
 - [Tiffany Chang](https://github.com/tiffany-TIFF)
